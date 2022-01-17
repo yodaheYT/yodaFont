@@ -1,2 +1,5 @@
 # yodaFont
-My pygame font rendering library
+
+**REQUIRES PYGAME** <br>
+>pip install pygame <br>
+>Includes examples, and the main script
